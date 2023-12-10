@@ -1,0 +1,6 @@
+name: SoundBoard-Plugin
+version: '${version}'
+main: me.theonlysd12.soundboard.SoundBoard
+api-version: '1.20'
+authors: [TheOnlySD12]
+description: A PaperMC plugin for the SoundBoard mod
